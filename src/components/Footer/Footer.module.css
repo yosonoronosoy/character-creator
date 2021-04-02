@@ -6,3 +6,11 @@
   text-align: center;
 }
 
+.footer a {
+  color: white;
+}
+
+.footer a:focus,
+.footer a:hover {
+  opacity: 0.7;
+}
